@@ -16,7 +16,6 @@ function SortNames() {
 counter = numnames + 1;
 // add the name to the array
 names[numnames] = index + '. ' + thename;
-
 	
 }
 
